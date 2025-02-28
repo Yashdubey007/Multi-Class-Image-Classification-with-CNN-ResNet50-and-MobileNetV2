@@ -1,6 +1,6 @@
 # Multi-Class Image Classification with CNN, ResNet50, and MobileNetV2
 
-This project implements and compares three deep learning models—custom CNN, ResNet50, and MobileNetV2—for multi-class image classification. It uses a dataset stored in Google Drive, preprocesses images, trains the models with optional data augmentation, evaluates their performance, and saves the best model (MobileNetV2) for inference. A prediction function is also provided to classify new images into one of three categories: "abdur", "yash", or "sanjay".
+This project implements and compares three deep learning models—custom CNN, ResNet50, and MobileNetV2—for multi-class image classification. It uses a dataset stored in Google Drive, preprocesses images, trains the models with optional data augmentation, evaluates their performance, and saves the best model (MobileNetV2) for inference. A prediction function is also provided to classify new images into one of three categories: "0", "1", or "2".
 
 ## Features
 - **Data Preprocessing:** Loads and normalizes images from Google Drive, resizes to 224x224.
