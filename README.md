@@ -1,0 +1,2 @@
+# Multi-Class-Image-Classification-with-CNN-ResNet50-and-MobileNetV2
+Multi-Class Image Classification with CNN, ResNet50, and MobileNetV2  A Google Colab project that trains and evaluates a custom CNN, ResNet50, and MobileNetV2 for multi-class image classification using a dataset from Google Drive. Includes data preprocessing, model training with augmentation, evaluation, and a prediction function for new images.
